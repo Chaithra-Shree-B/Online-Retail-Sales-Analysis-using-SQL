@@ -13,16 +13,16 @@ This project analyzes an online retail dataset using SQL to uncover key business
 - Understand monthly sales trends
 
 🗂 Dataset
-Name: Online Retail Dataset
-Type: Transactional Data
-Key Columns:
-- CustomerID
-- InvoiceDate
-- Description (Product)
-- Quantity
-- UnitPrice
-- Country
-- 
+- Name: Online Retail Dataset
+- Type: Transactional Data
+- Key Columns:
+              - CustomerID
+              - InvoiceDate
+              - Description (Product)
+              - Quantity
+              - Unit Price
+              - Country
+
 🔍 Key Business Questions & Insights
 
 💰 Total Revenue
@@ -70,7 +70,7 @@ Key Columns:
 - Data Analysis
 - Business Insight Generation
 
-📸 [Project Preview](Add your screenshots here)
+📸 [Project Preview](https://github.com/Chaithra-Shree-B/Online-Retail-Sales-Analysis-using-SQL/blob/main/sql.pptx)
 
 ⭐ Conclusion
 
